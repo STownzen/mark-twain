@@ -1,0 +1,137 @@
+{
+  "query": "",
+  "count": "",
+  "results": [
+    {
+      "id": "1",
+      "title": "The Gilded Age: A Tale of Today",
+      "author": "Mark Twain",
+      "year": "1873",
+      "genre": "novel"
+    },
+    {
+      "id": "2",
+      "title": "The Adventures of Tom Sawyer",
+      "author": "Mark Twain",
+      "year": "1876",
+      "genre": "novel"
+    },
+    {
+      "id": "3",
+      "title": "The Prince and the Pauper",
+      "author": "Mark Twain",
+      "year": "1881",
+      "genre": "novel"
+    },
+    {
+      "id": "4",
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "year": "1884",
+      "genre": "novel"
+    },
+    {
+      "id": "5",
+      "title": "A Connecticut Yankee in King Arthur's Court",
+      "author": "Mark Twain",
+      "year": "1889",
+      "genre": "novel"
+    },
+    {
+      "id": "6",
+      "title": "The American Claimant",
+      "author": "Mark Twain",
+      "year": "1892",
+      "genre": "novel"
+   },
+    {
+      "id": "7",
+      "title": "Tom Sawyer Abroad",
+      "author": "Mark Twain",
+      "year": "1894",
+      "genre": "novel"
+   },
+    {
+      "id": "8",     
+      "title": "Pudd'nhead Wilson",
+      "author": "Mark Twain",
+      "year": "1894",
+      "genre": "novel"
+   },
+    {
+      "id": "9",
+      "title": "Tom Sawyer, Detective",
+      "author": "Mark Twain",
+      "year": "1896",
+      "genre": "novel"
+   },
+    {
+      "id": "10",
+      "title": "Personal Recollections of Joan of Arc",
+      "author": "Mark Twain",
+      "year": "1896",
+      "genre": "novel"
+   },
+    {
+      "id": "11",
+      "title": "A Horse's Tale",
+      "author": "Mark Twain",
+      "year": "1907",
+      "genre": "novel"
+   },
+    {
+      "id": "12",
+      "title": "The Mysterious Stranger",
+      "author": "Mark Twain",
+      "year": "1916, posthumous",
+      "genre": "novel"
+   },
+    {
+      "id": "13",
+      "title": "The Celebrated Jumping Frog of Calaveras County and Other Sketches",
+      "author": "Mark Twain",
+      "year": "1867",
+      "genre": "short story collection"
+   },
+    {
+      "id": "14",
+      "title": "Life on the Mississippi",
+      "author": "Mark Twain",
+      "year": "1883",
+      "genre": "non-fiction"
+   },
+    {
+      "id": "15",
+      "title": "Some Rambling Notes on an Idle Excursion",
+      "author": "Mark Twain",
+      "year": "1877",
+      "genre": "non-fiction"
+   },
+    {
+      "id": "16",
+      "title": "Old Times on the Mississippi",
+      "author": "Mark Twain",
+      "year": "1876",
+      "genre": "non-fiction"
+},
+    {
+      "id": "17",
+      "title": "Roughing It",
+      "author": "Mark Twain",
+      "year": "1872",
+      "genre": "non-fiction"
+    }
+ ],
+  "collection": {
+    "type": "Collection",
+    "name": "Books by Samuel Langhorne Clemens, aka Mark Twain",
+    "creator": "STownzen",
+    "url": "https://www.susantownzen.info"
+  }
+}
+
+
+
+
+
+
