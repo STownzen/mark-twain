@@ -1,7 +1,7 @@
 {
   "query": "books",
   "count": "17",
-  "results": 
+  "results": "17"
 {
   "items": [
     {
@@ -132,6 +132,7 @@
   }
   ]
 }
+
 
 
 
